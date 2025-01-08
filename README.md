@@ -1,7 +1,6 @@
 # Personal-Protfolio
 This is my personal protfolio created with html and css
-![Screenshot (12)](https://github.com/user-attachments/assets/b55ae7b2-1190-46f5-b929-3c702af20784)
-![Screenshot (13)](https://github.com/user-attachments/assets/b6d36581-d776-4fa2-a1af-293efee64bbd)
-![Screenshot (14)](https://github.com/user-attachments/assets/9b47cb2f-0db0-4462-9d92-b756fa45bd2a)
-
+![Screenshot (12)](https://github.com/user-attachments/assets/ddb07256-9803-44a0-8861-ad33d31f1960)
+![Screenshot (13)](https://github.com/user-attachments/assets/1a76cd6a-dff5-466c-91c8-4053de61a99b)
+![Screenshot (14)](https://github.com/user-attachments/assets/ac4ab93d-fa88-4c0f-9015-d4ef85f21018)
 
